@@ -1,2 +1,2 @@
 # To-Do-List-App
-WebProject Description
+It's a beginner friendly Front-End project.
